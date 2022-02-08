@@ -1,12 +1,19 @@
-- 👋 Hi, I’m @sudeesimsek
-- 👀 I’m interested in QA
-- 🌱 I’m currently learning Selenium
-- 📫 How to reach me sudeeesimsek@gmail.com
+## 👋 Hi, I’m Sude
+* 👀 I’m interested in QA
+* ⭐	 I’m currently learning Selenium
 
-<!---
-sudeesimsek/sudeesimsek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+	https://github-readme-stats.vercel.app/api?username={sudeesimsek}&theme=white-pink
+	https://github-readme-stats.vercel.app/api/top-langs/?username={sudesimsek}&theme=white-pink
+  
+  ##
  
+<div> 
+ </a> 
+  <a href = "sudeeesimsek@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/sudesimsek" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
