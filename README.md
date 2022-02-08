@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudeesimsek
 - 👀 I’m interested in QA
-- 🌱 I’m currently learning JAVA Otomation
+- 🌱 I’m currently learning Selenium
 - 📫 How to reach me sudeeesimsek@gmail.com
 
 <!---
